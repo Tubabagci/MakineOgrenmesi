@@ -1,0 +1,2 @@
+# MakineOgrenmesi
+ Makine öğrenmesi sürecim
